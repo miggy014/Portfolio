@@ -1,5 +1,5 @@
-#End-to-end process of Data Pipeline, API, and Data Modeling
-##Phase 1: Creating a Virtual Environment and environment essentials
+# End-to-end process of Data Pipeline, API, and Data Modeling
+## Phase 1: Creating a Virtual Environment and environment essentials
 
 Created a local repository using git
 
