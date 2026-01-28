@@ -6,7 +6,7 @@ Created a local repository using git
 Created a virtual environment
 `python -m venv env`
 `env\Scripts\activate.ps1` <!--for PowerShell-->
-`env\Scripts\activate.bat <!--for cmd-->
+`env\Scripts\activate.bat` <!--for cmd-->
 
 Added packages: sqlalchemy, pandas, psycopg
 `pip install -r requirements.txt`
