@@ -24,7 +24,7 @@ Virtual Environment is important due to dependency isolation and its reproducibi
     pip install -r requirements.txt
     ```
 
-4. Setting up SSH Key in GitHub [https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent] (https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent)
+4. Setting up SSH Key in GitHub https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent
 
 5. Connected local repository to GitHub
 
