@@ -1,10 +1,11 @@
 # End-to-end process of On Premise Data Pipeline, API, and Reporting and Analytics
 
-## Phase 1: Creating a Virtual Environment and environment essentials
+## **Phase 1: Creating a Virtual Environment and environment essentials**
 
-Version control is a way to track changes and documentation allowing us to backup and restore files if needed.
+<p>Version control is a way to track changes and documentation allowing us to backup and restore files if needed.
 
 Virtual Environment is important due to dependency isolation and its reproducibility.
+</p>
 
 ### Steps:
 1. Created a local repository using git
@@ -23,13 +24,17 @@ Virtual Environment is important due to dependency isolation and its reproducibi
     pip install -r requirements.txt
     ```
 
-4. Connected local repository to GitHub
+4. Setting up SSH Key in GitHub [https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent] (https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent)
 
-## Phase 2: Extracting data from web to FTP using Python
+5. Connected local repository to GitHub
 
-FTP or File Transfer Protocol is a way to download, upload, and transfer files from one location to another on the internet and between computer systems.
+
+## **Phase 2: Extracting data from web to FTP using Python**
+
+<p>FTP or File Transfer Protocol is a way to download, upload, and transfer files from one location to another on the internet and between computer systems.
 
 This section will setup an FTP server on WSL using vsftpd (on linux).
+</p>
 
 ### Steps:
 
