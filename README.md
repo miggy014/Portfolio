@@ -1,5 +1,17 @@
 # End-to-end process of On Premise Data Pipeline, API, and Reporting and Analytics
 
+## About the Project
+
+_to be filled..._
+
+## Built With
+Python
+VS Code
+Git
+PowerShell
+wsl
+vsftpd
+
 ## **Phase 1: Creating a Virtual Environment and environment essentials**
 
 <p>Version control is a way to track changes and documentation allowing us to backup and restore files if needed.
